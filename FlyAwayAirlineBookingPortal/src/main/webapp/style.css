@@ -1,0 +1,119 @@
+h1{
+    color:#EF7C8E;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+h3{
+    color:#fae005;
+    background-color: black;
+    text-align: center;
+        margin-block-end: 0;
+}
+#form {
+    
+    color: #0a0400;
+    text-align: center;
+    align-self: center;
+    background-color: #B6E2D3;
+    border-width: 5px;
+    border-radius: 10px;
+    margin-bottom: 23px
+}
+#signUpButton{
+    color:antiquewhite;
+    background-color: black;
+    padding: 5px;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 2px;
+
+}
+button{
+    color:antiquewhite;
+    background-color: black;
+    padding: 5px;
+    border-color: antiquewhite;
+    border-radius: 3px;
+    border-width: 2px;
+}
+button:hover{
+    color:antiquewhite;
+    background-color: brown;
+}
+table{
+   text-align: center;
+    width:100%;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+#flightdetails{
+    text-align: center;
+    background-color: #faebd7;
+    border: #0a0400;
+    border-radius: 6px;
+    border-width: 8px;
+    padding: 2px;
+}
+#customerform {
+    text-align: center;
+    background-color: antiquewhite;
+    padding-top: 26px;
+    padding-bottom: 25px;
+}
+#dot{
+    text-align: center;
+    display: block;
+    margin: 3px;
+    font-weight: 700;
+}
+#payment{
+  color:#0a0400;
+  background-color: bisque;
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 22px;
+  
+}
+#paymentbutton{
+    background-color: #0a0400;
+    color: antiquewhite;
+    padding: 10px;
+    border-color: brown;
+    border-width: 1px;
+    border-radius: 17px;
+    text-decoration: none;
+}
+#paymentbutton:hover{
+    background-color:brown;
+    color: antiquewhite;
+    padding: 10px;
+    border-color: brown;
+    border-width: 1px;
+    border-radius: 17px;
+    text-decoration: none;
+}
+h1::first-letter{
+color:green;
+}
+#bookanother{
+	 display:inline;
+	 background-color: #0a0400;
+    color: antiquewhite;
+    padding: 10px;
+    border-color: brown;
+    border-width: 1px;
+    border-radius: 17px;
+    text-decoration: none;
+}
+#bookanother:hover{
+	display:inline;
+	background-color:brown;
+    color: antiquewhite;
+    padding: 10px;
+    border-color: brown;
+    border-width: 1px;
+    border-radius: 17px;
+    text-decoration: none;
+}
